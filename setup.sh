@@ -172,7 +172,7 @@ EOF
 # Download the bridge application
 echo ""
 echo "Downloading bridge application..."
-curl -fsSL https://raw.githubusercontent.com/yourusername/forgejo-coolify-bridge/main/forgejo-bridge.js -o forgejo-bridge.js
+curl -fsSL https://raw.githubusercontent.com/SirOMGitsYOU/forgejo-coolify-bridge/main/forgejo-bridge.js -o forgejo-bridge.js
 
 # Check if Forgejo is running in Docker
 echo ""
